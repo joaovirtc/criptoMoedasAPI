@@ -14,8 +14,8 @@ Projeto feito utlizando a API CoinGenko
 Instale o projeto com npm 
 
 ```bash
-  npm install (nome do projeto)
-  cd (nome do projeto)
+  npm install 
+  cd project
   npm run dev 
 ```
     
