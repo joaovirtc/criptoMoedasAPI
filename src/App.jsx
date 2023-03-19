@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="coin-app">
       <div className="coin-search">
-        <h1 className="coin-text">Pesquise Crypto Moedas</h1>
+        <h1 className="coin-text">Cryptocurrency Market </h1>
         <form>
           <div className="inputContainer">
             <i className="ri-search-2-line"></i>
