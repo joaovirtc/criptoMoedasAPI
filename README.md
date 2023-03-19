@@ -8,4 +8,4 @@ Projeto feito utlizando a API CoinGenko
 
 ## Screenshots
 
-![Preview](./public/preview-mockup.png)
+![Preview](./public/mockup.png)
